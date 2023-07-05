@@ -1,0 +1,10 @@
+.btn-large {
+   font-size: 1.2rem; /* ou toute autre taille de police souhaitée */
+    line-height: 1.6rem; /* ou toute autre hauteur de ligne souhaitée */
+    background-color: #0092ca ;
+  }
+  .my-message {
+    font-family: Roboto;
+    /*font-size: 16px;*/
+  }
+ 
